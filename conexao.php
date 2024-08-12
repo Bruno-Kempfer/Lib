@@ -9,7 +9,7 @@ $conn = pg_connect("host=$Host port=1522 dbname=$Banco user=$Usuario password=$S
 if($conn){
     echo 'conectado';
 }else{
-    echo 'erro';
+    echo 'erro'; 
 }
 
 ?>

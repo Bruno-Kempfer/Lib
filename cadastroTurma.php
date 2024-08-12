@@ -11,7 +11,7 @@ $resultado = pg_query($conn, $Query);
 
 if($resultado){
     echo 'Cadastrado com sucesso';
-    echo "<br>";
+    echo "<br>"; 
 }
 
 echo "<a href= './menu.html'> voltar </a>";

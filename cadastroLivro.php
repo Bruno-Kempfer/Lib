@@ -14,6 +14,6 @@ if ($resultado){
 }
 
 echo "<br>";
-echo "<a href='menu.html'> Volta </a>";
+echo "<a href='menu.html'> Volta </a>"; 
 
 ?>
